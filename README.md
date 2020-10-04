@@ -6,3 +6,5 @@ hello everyone
 Worrying does not empty tomorrow of its troubles; it empties today of its strength. 
 焦虑不能清空明天的问题，只会消除今天的力气。
 
+Enjoy the journey of life and not just the endgame. 
+享受人生旅程而不仅是关注结果。
