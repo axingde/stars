@@ -1,0 +1,8 @@
+version: '2'
+services:
+  web:
+    build: .
+    image:axing/web
+    ports:
+      - "150.158.166.214:6061:80"
+    container_name: "web1"
